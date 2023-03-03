@@ -26,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 Nesta aplicação utilizei conceitos profundos do React e TypeScript, hooks como context e reducer foram aplicados para trazer melhor legibilidade, 
-além de diversas bibliotecas podendo citar a immer para melhorar a legibilidade e diminuir a quantidade de maps utilizados no código. No fim, utilizei o localStorage
+além de diversas bibliotecas podendo citar a immer buscando diminuir a quantidade de maps utilizados no código facilitando uma correção. No fim, utilizei o localStorage
 para permitir que os dados sejam salvos de acordo com cada navegador do usuário, sendo ainda possível uma implementação de back-end no futuro. (Devo fazer mais 
 para frente utilizando Node.js).
 
